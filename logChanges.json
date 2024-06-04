@@ -1,0 +1,74 @@
+[
+    {
+        "username": "warehouse",
+        "action": "Added",
+        "id": "271d8f3d-facb-41fe-a8ad-be6f8a3ea986",
+        "name": "water",
+        "units": 10,
+        "updatedAt": "2024-06-04 13:01:48"
+    },
+    {
+        "username": "warehouse",
+        "action": "Added",
+        "id": "6ad19717-0022-471e-9110-1867f11a46e8",
+        "name": "coffee",
+        "units": 20,
+        "updatedAt": "2024-06-04 13:01:54"
+    },
+    {
+        "username": "warehouse",
+        "action": "Added",
+        "id": "ee09e9aa-f4e3-41ae-a50e-e86daebb7700",
+        "name": "fanta",
+        "units": 30,
+        "updatedAt": "2024-06-04 13:02:01"
+    },
+    {
+        "username": "warehouse",
+        "action": "Updated",
+        "id": "6ad19717-0022-471e-9110-1867f11a46e8",
+        "name": "coffee",
+        "units": 40,
+        "updatedAt": "2024-06-04 13:02:12"
+    },
+    {
+        "username": "warehouse",
+        "action": "Deleted",
+        "id": "6ad19717-0022-471e-9110-1867f11a46e8",
+        "name": "coffee",
+        "units": 40,
+        "updatedAt": "2024-06-04 13:02:18"
+    },
+    {
+        "username": "warehouse",
+        "action": "Added",
+        "id": "4bc92d5f-96ee-42dd-b523-e764e8cf0176",
+        "name": "tea",
+        "units": 1,
+        "updatedAt": "2024-06-04 13:02:50"
+    },
+    {
+        "username": "user123",
+        "action": "Added",
+        "id": "6363ca2b-c102-4a55-bd26-3408b4f81f00",
+        "name": "soda",
+        "units": 5,
+        "updatedAt": "2024-06-04 13:03:47"
+    },
+    {
+        "username": "user123",
+        "action": "Updated",
+        "id": "ee09e9aa-f4e3-41ae-a50e-e86daebb7700",
+        "name": "fanta",
+        "units": 1111,
+        "updatedAt": "2024-06-04 13:04:36"
+    },
+    {
+        "username": "userAABB",
+        "action": "Updated",
+        "id": "271d8f3d-facb-41fe-a8ad-be6f8a3ea986",
+        "name": "water",
+        "units": 0,
+        "updatedAt": "2024-06-04 13:05:07"
+    }
+]

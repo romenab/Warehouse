@@ -1,0 +1,30 @@
+{
+    "0": {
+        "id": "271d8f3d-facb-41fe-a8ad-be6f8a3ea986",
+        "name": "water",
+        "createdAt": "2024-06-04 13:01:48",
+        "updatedAt": "2024-06-04 13:05:07",
+        "units": "0"
+    },
+    "2": {
+        "id": "ee09e9aa-f4e3-41ae-a50e-e86daebb7700",
+        "name": "fanta",
+        "createdAt": "2024-06-04 13:02:01",
+        "updatedAt": "2024-06-04 13:04:36",
+        "units": "1111"
+    },
+    "3": {
+        "id": "4bc92d5f-96ee-42dd-b523-e764e8cf0176",
+        "name": "tea",
+        "createdAt": "2024-06-04 13:02:50",
+        "updatedAt": "2024-06-04 13:01:31",
+        "units": 1
+    },
+    "4": {
+        "id": "6363ca2b-c102-4a55-bd26-3408b4f81f00",
+        "name": "soda",
+        "createdAt": "2024-06-04 13:03:47",
+        "updatedAt": "2024-06-04 13:03:25",
+        "units": 5
+    }
+}
