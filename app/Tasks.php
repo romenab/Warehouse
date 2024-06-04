@@ -63,7 +63,7 @@ class Tasks
                 "id" => $uuid,
                 "name" => $userProduct,
                 "createdAt" => Carbon::now()->toDateTimeString(),
-                "updatedAt" => $this->updatedAt->toDateTimeString(),
+                "updatedAt" => Carbon::now()->toDateTimeString(),
                 "units" => $userUnits
             ];
             echo "Product added successfully!" . PHP_EOL;
